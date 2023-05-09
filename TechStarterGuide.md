@@ -178,6 +178,10 @@ Kindly go through the below documents based on domain to understand the business
 
 [Test Cases](https://docs.google.com/document/d/1ttixilM-I6dutEdHL10uzqRFd8RcJlEO_9wBUijtdDc/edit?usp=sharing)
 
+### Logistics
+
+[Test Cases](https://docs.google.com/document/d/1ttixilM-I6dutEdHL10uzqRFd8RcJlEO_9wBUijtdDc/edit?usp=sharing)
+
 ### IGM
 
 [Test Cases](https://docs.google.com/document/d/1O-11TsUGLLvYgq1Fo-HNIkGIlOelBJH4/edit?usp=sharing&ouid=103244249656832991961&rtpof=true&sd=true)
