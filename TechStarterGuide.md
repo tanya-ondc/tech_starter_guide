@@ -53,7 +53,7 @@ Below resources will help you understand the Auth Header Signing and Verificatio
 
 [Auth Header - Signing and Verification](https://docs.google.com/document/d/1-xECuAHxzpfF8FEZw9iN3vT7D3i6yDDB1u2dEApAjPA/edit)
 
-Signing and Verification Utilities: This utility will help you generate key pairs, create/verify authorization headers.
+**Signing and Verification Utilities**: This utility will help you generate key pairs, create/verify authorization headers.
 
 - [Python](https://github.com/ONDC-Official/reference-implementations/tree/main/utilities/signing_and_verification)
 - [Java](https://github.com/ONDC-Official/reference-implementations/tree/main/utilities/ondc-crypto-utility-master)
