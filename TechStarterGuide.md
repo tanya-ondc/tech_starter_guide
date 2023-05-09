@@ -70,8 +70,9 @@ Signing and Verification Utilities: This utility will help you generate key pair
 ## ONDC Staging Endpoints
 
 a. Registry end point
-
+```
 https://pilot-gateway-1.beckn.nsdl.co.in/lookup
+```
 
 b. Gateway end point
 
