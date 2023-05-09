@@ -1,4 +1,4 @@
-# tech_starter_guide
+# Tech_Starter_Guide
 
 # Table of contents
 1. Introduction
@@ -45,7 +45,7 @@ Need assistance in building the buyer or seller apps. Go through our reference b
 
 ONDC reference Buyer [WebApp](https://github.com/ONDC-Official/biap-client-node-js) and [MobileApp](https://github.com/ONDC-Official/ONDC-Mobile-Buyer-App-Private)
 
-ONDC reference Seller App
+ONDC reference [Seller App](https://github.com/ONDC-Official/seller-app-sdk)
 
 # 4. Signing and Verification
 
